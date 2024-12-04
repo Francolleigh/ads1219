@@ -5,6 +5,7 @@
 #use at you own riscs
 #Developed by Francolleigh Technologies
 #11/28/2024
+#12/4/2024 - falling edge for DRDY
 
 #this script assums that you are working with a respbery pi5 
 #this script assums that all required libraries such smbus have been installed
